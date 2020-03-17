@@ -26,3 +26,4 @@ custom
 
 1. 로직을 index.js(root file, 최상단파일) 에 만든다.
 2. routing부분을 route로 옮긴다.
+3. route의 handler 부분을 controller에 옮긴다.
