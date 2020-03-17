@@ -21,9 +21,7 @@
 - version 2
 - version 3
 
-## MIDDLEWARE
-
-custom
+## MIDDLEWARE (Custom)
 
 - verify token middleware
 - error response middlware
