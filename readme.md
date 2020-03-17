@@ -1,19 +1,27 @@
-## route
+## ROUTE
 
 - version 1
+  - user
+  - post
 - version 2
 - version 3
 
-## database
+## DATABASE
 
 - 연결부분
-- 스키마부분(모델이라고 생각하면됨 , 단 모델은 아님절대!)
+- 스키마부분(몽고DB는 Nosql! 이해하기쉽게 모델이라고 생각하면됨 , 단 모델은 아님절대!)
 
-## controller
+## CONTROLLER
 
-실질적인 로직을 담당하는 부분 - version 1 - version 2 - version 3
+실질적인 로직을 담당하는 부분
 
-## middleware
+- version 1
+  - user
+  - post
+- version 2
+- version 3
+
+## MIDDLEWARE
 
 custom
 
